@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(255, 145, 0);
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: rgb(180, 137, 79);
+    color: blue;
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 36px;
+}
+
+nav {
+    background-color: darkgoldenrod;
+    text-align: center;
+    padding: 10px;
+}
+
+nav a {
+    color: aquamarine;
+    text-decoration: none;
+    margin: 0 20px;
+    font-weight: bold;
+}
+
+section {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: rgb(204, 205, 206);
+    box-shadow: 0 0 10px red;
+    border-radius: 10px;
+}
+
+footer {
+    background: yellowgreen;
+    color: cornflowerblue;
+    text-align: center;
+    padding: 10px;
+}
